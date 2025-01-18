@@ -1,2 +1,2 @@
 # React_pratice
-This is React practice folder
+This is React practice folder.
